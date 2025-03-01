@@ -1,3 +1,4 @@
+<img src="281811810_5143721069081940_1959275491328375259_n.jpg" width="25%"/>
 2D Thriller Adventure Game
 A 2D adventure game developed in C using the SDL library, delivering an engaging thriller experience. Designed for Linux, the game features dynamic gameplay, challenging puzzles, and an immersive storyline.
 
